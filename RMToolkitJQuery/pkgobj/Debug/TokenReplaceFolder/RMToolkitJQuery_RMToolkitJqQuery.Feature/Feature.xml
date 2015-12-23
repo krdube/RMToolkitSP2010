@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="RMToolkitJQuery.Feature" Id="a6c9f58e-0009-4203-95b9-c0ca49683f3e" Scope="Site">
+  <ElementManifests>
+    <ElementManifest Location="ScriptElement\Elements.xml" />
+  </ElementManifests>
+</Feature>

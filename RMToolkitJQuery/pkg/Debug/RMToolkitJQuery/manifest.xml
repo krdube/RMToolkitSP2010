@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="54f71b86-577c-4969-8dd9-9e89972d863a" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="RMToolkitJQuery.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Layouts\inc\RMToolkitJQuery\jquery-1.7.2.min.js" />
+    <TemplateFile Location="Layouts\inc\RMToolkitJQuery\jquery.SPServices-0.7.1a.min.js" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="RMToolkitJQuery_RMToolkitJQuery\Feature.xml" />
+  </FeatureManifests>
+</Solution>

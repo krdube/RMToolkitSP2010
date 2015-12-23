@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="RMToolkitTimerFeature" ActivateOnDefault="FALSE" Description="RMToolkit Timer Job which Archive or Delets Records" Id="2a5f864c-e361-45f3-86d4-33c7e14080c4" ImageUrl="/RMToolkitConfig/TLOGO.png" ReceiverAssembly="RMToolkitTimer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=9b9064ccc3732612" ReceiverClass="RMToolkitTimer.Features.RMToolkitTimerFeature.RMToolkitTimerFeatureEventReceiver" Scope="WebApplication"></Feature>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" Id="9d515bbd-1a80-466c-9075-8a2fd1abd5c9" solutionId="9d515bbd-1a80-466c-9075-8a2fd1abd5c9" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" name="RMToolkitDispositionToArchiveListWF">
+    <features>
+        <featureReference itemId="18d0881f-f036-4988-86ba-ad4424814667" />
+    </features>
+</package>

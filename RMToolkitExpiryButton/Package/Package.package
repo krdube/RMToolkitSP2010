@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="d59104ca-9d51-4e37-a170-fa9750df7754" solutionId="d59104ca-9d51-4e37-a170-fa9750df7754" resetWebServer="false" name="RMToolkitExpiryButton" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="0d374e33-364c-40cc-bcca-3aa11dc33370" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="57790eb3-bece-4acd-b830-17f54d7e3bf1" />
+    <projectItemReference itemId="1eb70a4e-5419-4e51-be8a-b7f9a6e1a7b5" />
+  </projectItems>
+</package>

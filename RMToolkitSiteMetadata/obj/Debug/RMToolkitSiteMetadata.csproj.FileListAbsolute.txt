@@ -1,0 +1,6 @@
+C:\kevin_SPTEST\SP2010\RM_Toolkit_vTimer_New\RMToolkitSiteMetadata\bin\Debug\RMToolkitSiteMetadata.dll
+C:\kevin_SPTEST\SP2010\RM_Toolkit_vTimer_New\RMToolkitSiteMetadata\bin\Debug\RMToolkitSiteMetadata.pdb
+C:\kevin_SPTEST\SP2010\RM_Toolkit_vTimer_New\RMToolkitSiteMetadata\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+C:\kevin_SPTEST\SP2010\RM_Toolkit_vTimer_New\RMToolkitSiteMetadata\obj\Debug\ResolveAssemblyReference.cache
+C:\kevin_SPTEST\SP2010\RM_Toolkit_vTimer_New\RMToolkitSiteMetadata\obj\Debug\RMToolkitSiteMetadata.dll
+C:\kevin_SPTEST\SP2010\RM_Toolkit_vTimer_New\RMToolkitSiteMetadata\obj\Debug\RMToolkitSiteMetadata.pdb

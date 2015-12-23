@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <CustomAction Id="ManageRMToolkit"
+                GroupId="RMToolkitSettings"
+                Location="Microsoft.SharePoint.Administration.Applications"
+                Sequence="50"
+                Title="RM Toolkit Settings">
+    <UrlAction Url="_admin/RMToolkitConfig/RMTookitConfigPage.aspx"/>
+  </CustomAction>
+</Elements>

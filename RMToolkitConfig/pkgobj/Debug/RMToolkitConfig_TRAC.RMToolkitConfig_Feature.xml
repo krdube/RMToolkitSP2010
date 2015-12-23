@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="RMToolkitConfig Feature" ActivateOnDefault="FALSE" Description="Adds a configuration page to central administration for the RMToolkit" Id="95db7c0d-ff24-4b5c-8ddb-e47e13308d5e" ImageUrl="/RMToolkitConfig/TLOGO.png" Scope="Web" Version="1.0.0.0">
+  <ElementManifests>
+    <ElementManifest Location="RMToolkitConfigPageGroup\elements.xml" />
+    <ElementManifest Location="RMToolkitConfigPageAction\elements.xml" />
+  </ElementManifests>
+</Feature>

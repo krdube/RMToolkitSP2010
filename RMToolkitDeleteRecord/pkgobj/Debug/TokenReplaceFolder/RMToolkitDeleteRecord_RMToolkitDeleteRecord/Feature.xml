@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="RM Toolkit Record Deletion Workflow" Id="fbdead06-f9b9-4053-b84a-7543a52041eb" Scope="Site" Title="RMToolkitModifyRecordWF_DeleteRecord">
+  <Properties>
+    <Property Key="GloballyAvailable" Value="true" />
+  </Properties>
+  <ElementManifests>
+    <ElementManifest Location="RMToolkitDeletionApprovalWF\Elements.xml" />
+  </ElementManifests>
+</Feature>

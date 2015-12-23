@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="RMToolkitSiteMetadata Feature" ActivateOnDefault="FALSE" Description="Allows Records Administrators to specify which metadata columns are to be used at the site level to be copied to the disposition lists." Id="fcc5bd3b-388f-4191-9c2b-fc484f465ef1" ImageUrl="/RMToolkitConfig/TLOGO.png" Scope="Web">
+  <ElementManifests>
+    <ElementManifest Location="RMToolkitMetadataSettings\Elements.xml" />
+  </ElementManifests>
+</Feature>
