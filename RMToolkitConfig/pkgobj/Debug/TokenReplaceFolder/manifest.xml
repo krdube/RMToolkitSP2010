@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="5d5e7fc2-5768-4758-b2e5-87d4a33e816e" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="RMToolkitConfig.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <RootFiles>
+    <RootFile Location="TEMPLATE\ADMIN\RMToolkitConfig\RMToolkitConfigPage.aspx" />
+  </RootFiles>
+  <TemplateFiles>
+    <TemplateFile Location="Images\RMToolkitConfig\TLOGO.png" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="RMToolkitConfig_TRAC.RMToolkitConfig\Feature.xml" />
+  </FeatureManifests>
+</Solution>

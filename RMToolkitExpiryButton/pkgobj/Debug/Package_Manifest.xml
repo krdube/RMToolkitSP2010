@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="d59104ca-9d51-4e37-a170-fa9750df7754" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="RMToolkitExpiryButton.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Layouts\RMToolkitExpiryButton\ExpiryDate.aspx" />
+    <TemplateFile Location="Layouts\RMToolkit\js\ExpireBtnLib.js" />
+    <TemplateFile Location="Images\RMToolkit\expirerecord.png" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="RMToolkitExpiryButton_RMToolkitExpiryButtonFeature\Feature.xml" />
+  </FeatureManifests>
+</Solution>

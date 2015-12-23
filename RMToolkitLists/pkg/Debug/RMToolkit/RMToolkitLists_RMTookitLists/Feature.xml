@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="RMToolkitLists" Description="Deploys List Definition and Lists Instances of Archive and Deletion Lists for the RM Toolkit" Id="48266da1-df2e-4d15-99ee-021103372ace" ImageUrl="/RMToolkitConfig/TLOGO.png" Scope="Web" Version="1.0.0.0">
+  <ElementManifests>
+    <ElementManifest Location="RecordForDeletion\Elements.xml" />
+    <ElementManifest Location="RecordForArchive\Elements.xml" />
+    <ElementManifest Location="RMToolkitDeletion\Elements.xml" />
+    <ElementFile Location="RMToolkitDeletion\Schema.xml" />
+    <ElementManifest Location="RMToolkitDeletionList\Elements.xml" />
+    <ElementManifest Location="RMToolkitArchive\Elements.xml" />
+    <ElementFile Location="RMToolkitArchive\Schema.xml" />
+    <ElementManifest Location="RMToolkitArchiveList\Elements.xml" />
+  </ElementManifests>
+</Feature>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="3062fcf6-402b-435a-b1ff-321fdeac1b46" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="RMToolkitDeleteRecord.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="RMToolkitDeleteRecord_RMToolkitDeleteRecord\Feature.xml" />
+  </FeatureManifests>
+</Solution>

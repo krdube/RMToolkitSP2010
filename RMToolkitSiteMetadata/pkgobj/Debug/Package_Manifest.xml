@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="1dd166e7-81b3-47dc-bbc4-bb1ece10972a" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="RMToolkitSiteMetadata.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Layouts\RMToolkitSiteMetadata\MetadataColumns.aspx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="RMToolkitSiteMetadata_RMToolkitMetadataFeature\Feature.xml" />
+  </FeatureManifests>
+</Solution>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="de8b801d-a928-4780-b00f-81b61290b147" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="RMToolkit.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Images\RMToolkitLists\wrench.png" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="RMToolkitLists_RMTookitLists\Feature.xml" />
+  </FeatureManifests>
+</Solution>

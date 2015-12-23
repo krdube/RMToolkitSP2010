@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="RMToolkitExpiryButton Feature" Description="Applies Expiry Dates to Records so they can begin their retention" Id="71df4c5d-cd97-4418-8b8d-b7a07f16cd03" ImageUrl="/RMToolkitConfig/TLOGO.png" Scope="Web" Version="1.0.0.0">
+  <ElementManifests>
+    <ElementManifest Location="RMToolkitExpiryButton\Elements.xml" />
+  </ElementManifests>
+</Feature>
